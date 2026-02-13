@@ -1,4 +1,5 @@
 **Pricing & Profitability Decision Support (Excel)**
+
 **Objective**
 Evaluate pricing health and margin risk across shipment segment, product category, and region to identify revenue concentration risk and discount leakage.
 
