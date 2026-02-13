@@ -13,7 +13,7 @@ Sample Superstore dataset (~$1.97M revenue)
 
 **Key Findings**
 
--58% of at-risk revenue concentrated in Standard Class shipments
+- 58% of at-risk revenue concentrated in Standard Class shipments
 - 72% of low-margin exposure driven by Technology category
 - 41% of over-discounted revenue concentrated in West region
 - Central region exhibits highest average discount intensity (37.7%)
